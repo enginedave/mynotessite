@@ -9,6 +9,8 @@ categories: jekyll update
 
 ### Regulation
 
+the next post is [here][nextpost]
+
 |23. In any relevant work—|
 
 | | |(a)|the materials used shall—|
@@ -27,7 +29,7 @@ categories: jekyll update
 
 All materials should be adequately mixed and prepared in accordance with the manufacturers literature and instructions. The materials should be applied by personal that have been adequately trained in the application of the product. All materials should be adequately mixed and prepared in accordance with the manufacturers literature and instructions. The materials should be applied by personal that have been adequately trained in the application of the product. All materials should be adequately mixed and prepared in accordance with the manufacturers literature and instructions. The materials should be applied by personal that have been adequately trained in the application of the product. All materials should be adequately mixed and prepared in accordance with the manufacturers literature and instructions. The materials should be applied by personal that have been adequately trained in the application of the product. 
 
-
+[nextpost]: {{ page.next.url }}
 
 
 

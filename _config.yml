@@ -19,4 +19,8 @@ markdown: kramdown
 collections:
   regnotes:
     output: true
-    permalink: /regulation_notes/:path/
+    permalink: /regulationnotes/:path/
+  regsections:
+    output: true
+    permalink: /regulationsections/:path/
+    

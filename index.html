@@ -2,42 +2,26 @@
 layout: default
 ---
 
-<div class="row">
-  <div class="large-12 columns"><h2 class="page-heading">Posts</h2></div>
-</div>
+<h2>Posts</h2>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <p><span>{{ post.date | date: "%b %-d, %Y" }}</span></p>
+      <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+    </li>
+  {% endfor %}
+</ul>
 
-<div class="row">
-  <div class="large-6 columns">
-    
-    <ul class="post-list">
-      {% for post in site.posts %}
-        <li>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-    
-          <h3>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h3>
-        </li>
-      {% endfor %}
-    </ul>
-    
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-    
-  </div>
+<h2>Regulation notes</h2>
+<ul>
+  {% for reg in site.regnotes %}
+    <li>
+      <h4><a href="{{ reg.url | prepend: site.baseurl }}">{{ reg.title }}</a></h4>
+    </li>
+  {% endfor %}
+</ul>
 
 
 
-  <div class="large-6 columns">
-    
-    <ul>
-      {% for reg in site.regnotes %}
-        <li>
-          <h3>
-            <a class="post-link" href="{{ reg.url | prepend: site.baseurl }}">{{ reg.title }}</a>
-          </h3>
-        </li>
-      {% endfor %}
-    </ul>
-    
-  </div>
-</div>
+
+<p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

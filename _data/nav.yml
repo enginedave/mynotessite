@@ -1,0 +1,13 @@
+- regul: "A1"
+  hrefp: "#"
+  hrefn: "/regulationnotes/regulationa2/"
+
+
+- regul: "A2"
+  hrefp: "/regulationnotes/regulationa1/"
+  hrefn: "/regulationnotes/regulationa3/"
+
+
+- regul: "A3"
+  hrefp: "/regulationnotes/regulationa2/"
+  hrefn: "/regulationnotes/regulationb1/"
