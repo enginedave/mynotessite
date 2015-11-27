@@ -16,7 +16,7 @@ regulationno: A1
     <p>
         <strong>Loading</strong><br>
         <strong>A1.</strong><br>
-            (1) The building shall be constructed so that the combined dead, imposed and wind loads are sustained and transmitted by it to the ground-<br>
+            (1) The building shall be constructed so that the combined dead, imposed and wind loads are sustained and transmitted by it to the ground:<br>
             &nbsp;&nbsp;&nbsp;(a) safety; and<br>
             &nbsp;&nbsp;&nbsp;(b) without causing such deflection or deformation of any part of the building, or such movement of the ground, as will impair the stability of any part of another building.<br>
             (2) In assessing whether a building complies with sub-paragraph (1) regard shall be had to the imposed and wind loads to which it is likely to be subjected in the ordinary course of its use for the purpose for which it is intended.

@@ -16,10 +16,10 @@ regulationno: B2
     <p>
         <strong>Internal fire spread (linings)</strong><br>
         <strong>B2.</strong><br>
-            (1) To inhibit the spread of fire within the building, the internal linings shall-<br>
+            (1) To inhibit the spread of fire within the building, the internal linings shall:<br>
             &nbsp;&nbsp;&nbsp;(a) adequately resist the spread of flame over their surfaces; and<br>
-            &nbsp;&nbsp;&nbsp;(b) have, if ignited, either a rate of heat release or a rate of fire growth, which is reasonable in the circumstances.<br>
-            (2) In this paragraph "internal linings" means the materials or products used in lining any partition, wall, ceiling or other internal structure.
+            &nbsp;&nbsp;&nbsp;(b) have, if ignited, a rate of heat release or a rate of fire growth, which is reasonable in the circumstances.<br>
+            (2) In this paragraph "internal linings" mean the materials or products used in lining any partition, wall, ceiling or other internal structure.
     </p>
   </div>
 </div>

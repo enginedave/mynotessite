@@ -16,7 +16,7 @@ regulationno: B5
     <p>
         <strong>Access and facilities for the fire service</strong><br>
         <strong>B5.</strong><br>
-            (1) The building shall be designed and constructed so as to provide reasonable facilities to assist fire fighters in the protection of life.<br>
+            (1) The building shall be designed and constructed so as to provide reasonable facilities to assist firefighters in the protection of life.<br>
             (2) Reasonable provision shall be made within the site of the building to enable fire appliances to gain access to the building.
     </p>
   </div>

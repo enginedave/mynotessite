@@ -16,10 +16,9 @@ regulationno: A2
     <p>
         <strong>Ground Movement</strong><br>
         <strong>A2.</strong><br>
-            The building shall be constructed so that ground movement caused by - <br>
+            The building shall be constructed so that ground movement caused by:<br>
             &nbsp;&nbsp;&nbsp;(a) swelling, shrinkage or freezing of the subsoil; or<br> 
-            &nbsp;&nbsp;&nbsp;(b) land-slip or subsidence (other than subsidence arising from shrinkage), in so far as the risk can be reasonably foreseen,<br>
-            will not impair the stability of any part of the building.
+            &nbsp;&nbsp;&nbsp;(b) land-slip or subsidence (other than subsidence arising from shrinkage), in so far as the risk can be reasonably foreseen, will not impair the stability of any part of the building.
     </p>
   </div>
 </div>
