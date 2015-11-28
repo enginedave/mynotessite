@@ -9,7 +9,7 @@ description: > # this means to ignore newlines until "baseurl:"
   that in many cases they are often contrdictory and disorganised. This site 
   seeks to solve this problem by providing an organised set of notes that can 
   be used to provide information to assist in compliance with the Building Regulations.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/mynotessite/" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
