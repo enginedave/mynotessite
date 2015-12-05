@@ -16,7 +16,8 @@ regulationno: J3
     <p>
         <strong>Warning of release of carbon monoxide</strong><br>
         <strong>J3.</strong><br>
-            Where a combustion appliance is provided, appropriate provision having regard to the design and location of the appliance shall be made to detect and give early warning of the release of carbon monoxide at levels harmful to persons.
+            Where a fixed combustion appliance is provided, appropriate provision shall be made to detect and give warning of the release of carbon monoxide.<br><br>
+            Requirement J3 applies only to fixed combustion appliances located in dwellings.
     </p>
   </div>
 </div>

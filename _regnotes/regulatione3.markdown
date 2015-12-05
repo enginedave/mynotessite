@@ -16,7 +16,8 @@ regulationno: E3
     <p>
         <strong>Reverberation in common internal parts of buildings containing flats or rooms for residential purposes</strong><br>
         <strong>E3.</strong><br>
-            The common internal parts of buildings which contain flats or rooms for residential purposes shall be designed and constructed in such a way as to prevent more reverberation around the common parts than is reasonable.
+            The common internal parts of buildings which contain flats or rooms for residential purposes shall be designed and constructed in such a way as to prevent more reverberation around the common parts than is reasonable.<br><br>
+            Requirement E3 only applies to corridors, stairwells, hallways and entrance halls which give access to the flat or room for residential purposes.
     </p>
   </div>
 </div>

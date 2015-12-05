@@ -16,7 +16,10 @@ regulationno: J6
     <p>
         <strong>Protection of liquid fuel storage systems</strong><br>
         <strong>J6.</strong><br>
-            Liquid fuel storage systems and the pipes connecting them to combustion appliances shall be so constructed and separated from buildings and the boundary of the premises as to reduce to a reasonable level the risk of the fuel igniting in the event of fire in adjacent buildings or premises.
+            Liquid fuel storage systems and the pipes connecting them to combustion appliances shall be so constructed and separated from buildings and the boundary of the premises as to reduce to a reasonable level the risk of the fuel igniting in the event of fire in adjacent buildings or premises.<br><br>
+            Requirement J6 applies only to:<br>
+            &nbsp;&nbsp;&nbsp;(a) fixed oil storage tanks with capacities greater than 90 litres and connecting pipes; and<br>
+            &nbsp;&nbsp;&nbsp;(b) fixed liquefied petroleum gas storage installations with capacities greater than 150 litres and connecting pipes, which are located outside the building and which serve fixed combustion appliances (including incinerators) in the building.
     </p>
   </div>
 </div>

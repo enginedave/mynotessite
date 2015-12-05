@@ -14,7 +14,7 @@ regulationno: G6
   </div>
   <div class="panel-body">
     <p>
-        <strong>Kitchens and food preparation areas</strong><br>
+        <strong>Food preparation areas</strong><br>
         <strong>G6.</strong><br>
             A suitable sink must be provided in any area where food is prepared.
     </p>

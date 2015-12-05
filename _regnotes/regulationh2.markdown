@@ -16,12 +16,12 @@ regulationno: H2
     <p>
         <strong>Wastewater treatment systems and cesspools</strong><br>
         <strong>H2.</strong><br>
-            (1) Any septic tank and its form of secondary treatment, other wastewater treatment system or cesspool, shall be so sited and constructed that-<br>
+            (1) Any septic tank and its form of secondary treatment, other wastewater treatment system or cesspool, shall be so sited and constructed that:<br>
             &nbsp;&nbsp;&nbsp;(a) it is not prejudicial to the health of any person;<br>
             &nbsp;&nbsp;&nbsp;(b) it will not contaminate any watercourse, underground water or water supply;<br>
             &nbsp;&nbsp;&nbsp;(c) there are adequate means of access for emptying and maintenance; and <br>
             &nbsp;&nbsp;&nbsp;(d) where relevant, it will function to a sufficient standard for the protection of health in the event of a power failure.<br>
-            (2) Any septic tank or holding tank which is part of a wastewater treatment system or cesspool shall be-<br>
+            (2) Any septic tank, or holding tank which is part of a wastewater treatment system or cesspool shall be:<br>
             &nbsp;&nbsp;&nbsp;(a) of adequate capacity;<br>
             &nbsp;&nbsp;&nbsp;(b) so constructed that it is impermeable to liquids; and <br>
             &nbsp;&nbsp;&nbsp;(c) adequately ventilated.<br>

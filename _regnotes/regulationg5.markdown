@@ -16,7 +16,8 @@ regulationno: G5
     <p>
         <strong>Bathrooms</strong><br>
         <strong>G5.</strong><br>
-            A bathroom must be provided containing a washbasin and either a fixed bath or a shower.
+            A bathroom must be provided containing a wash basin and either a fixed bath or a shower.<br><br>
+            Requirement G5 applies only to dwellings and to buildings containing one or more rooms for residential purposes.
     </p>
   </div>
 </div>

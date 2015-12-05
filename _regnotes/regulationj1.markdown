@@ -16,7 +16,8 @@ regulationno: J1
     <p>
         <strong>Air supply</strong><br>
         <strong>J1.</strong><br>
-            Combustion appliances shall be so installed that there is an adequate supply of air to them for combustion, to prevent over-heating and for the efficient working of any flue.
+            Combustion appliances shall be so installed that there is an adequate supply of air to them for combustion, to prevent overheating and for the efficient working of any flue.<br><br>
+            Requirements J1 and J2 apply only to fixed combustion appliances (including incinerators).
     </p>
   </div>
 </div>

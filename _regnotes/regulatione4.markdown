@@ -18,8 +18,8 @@ regulationno: E4
         <strong>E4.</strong><br>
             (1) Each room or other space in a school building shall be designed and constructed in such a way that it has the acoustic conditions and the insulation against disturbance by noise appropriate to its intended use.<br>
             (2) For the purposes of this Part-<br>
-            "school" has the same meaning as in section 4 of the Education Act 1996(a); and <br>
-            "school building" means any building forming a school or part of a school.
+            'school' has the same meaning as in section 4 of the Education Act 1996[4]; and <br>
+            'school building' means any building forming a school or part of a school.
     </p>
   </div>
 </div>

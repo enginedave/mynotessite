@@ -16,7 +16,7 @@ regulationno: J4
     <p>
         <strong>Protection of building</strong><br>
         <strong>J4.</strong><br>
-            Combustion appliances and flue-pipes shall be so installed, and fireplaces and chimneys shall be so constructed and installed, as to reduce to a reasonable level the risk of people suffering burns or the building catching fire in consequence of their use.
+            Combustion appliances and fluepipes shall be so installed, and fireplaces and chimneys shall be so constructed and installed, as to reduce to a reasonable level the risk of people suffering burns or the building catching fire in consequence of their use.
     </p>
   </div>
 </div>

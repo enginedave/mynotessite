@@ -16,7 +16,8 @@ regulationno: J2
     <p>
         <strong>Discharge of products of combustion</strong><br>
         <strong>J2.</strong><br>
-            Combustion appliances shall have adequate provision for the discharge of products of combustion to the outside air.
+            Combustion appliances shall have adequate provision for the discharge of products of combustion to the outside air.<br><br>
+            Requirements J1 and J2 apply only to fixed combustion appliances (including incinerators).
     </p>
   </div>
 </div>

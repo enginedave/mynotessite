@@ -20,7 +20,7 @@ regulationno: G4
             (2) Adequate hand washing facilities must be provided in-<br>
             &nbsp;&nbsp;&nbsp;(a) rooms containing sanitary conveniences; or<br>
             &nbsp;&nbsp;&nbsp;(b) rooms or spaces adjacent to rooms containing sanitary conveniences.<br>
-            (3) Any room containing a sanitary convenience, a bidget, or any facility for washing hands provided in accordance with sub-paragraph (2)(b), must be separated from any kitchen or any area where food is prepared.
+            (3) Any room containing a sanitary convenience, a bidet, or any facility for washing hands provided in accordance with paragraph (2)(b), must be separated from any kitchen or any area where food is prepared.
     </p>
   </div>
 </div>
