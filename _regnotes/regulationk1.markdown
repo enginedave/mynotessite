@@ -16,7 +16,8 @@ regulationno: K1
     <p>
         <strong>Stairs, ladders and ramps</strong><br>
         <strong>K1.</strong><br>
-            Stairs, ladders and ramps shall be so designed, constructed and installed as to be safe for people moving between levels in or about the building.
+            Stairs, ladders and ramps shall be so designed, constructed and installed as to be safe for people moving between different levels in or about the building.<br><br>
+            Requirement K1 applies only to stairs, ladders and ramps which form part of the building.
     </p>
   </div>
 </div>

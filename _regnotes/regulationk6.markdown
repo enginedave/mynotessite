@@ -1,8 +1,8 @@
 ---
 layout: reg
-title: regtitleK5
+title: regtitleK6
 section: Part K
-regulationno: K5
+regulationno: K6
 ---
 
 <div class="panel panel-primary">
@@ -15,12 +15,15 @@ regulationno: K5
   <div class="panel-body">
     <p>
         <strong>Protection against impact from and trapping by doors</strong><br>
-        <strong>K5.</strong><br>
-            (1) Provision shall be made to prevent any door or gate-<br>
+        <strong>K6.</strong><br>
+            (1) Provision shall be made to prevent any door or gate:<br>
             &nbsp;&nbsp;&nbsp;(a) which slides or opens upwards, from falling onto any person; and<br>
             &nbsp;&nbsp;&nbsp;(b) which is powered, from trapping any person.<br>
             (2) Provision shall be made for powered doors and gates to be opened in the event of a power failure.<br>
-            (3) Provision shall be made to ensure a clear view of the space on either side of a swing door or gate.
+            (3) Provision shall be made to ensure a clear view of the space on either side of a swing door or gate.<br><br>
+            Requirement K6 does not apply to:<br>
+            &nbsp;&nbsp;&nbsp;(a) dwellings, or<br>
+            &nbsp;&nbsp;&nbsp;(b) any door or gate which is part of a lift.
     </p>
   </div>
 </div>

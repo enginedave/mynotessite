@@ -16,9 +16,10 @@ regulationno: K2
     <p>
         <strong>Protection from falling</strong><br>
         <strong>K2.</strong><br>
-            (a) Any stairs, ramps, floors and balconies and any roof to which people have access, and<br>
-            (b) any light well, basement area or similar sunken area connected to a building,
-            shall be provided with barriers where it is necessary to protect people in or about the building from falling.
+            &nbsp;&nbsp;&nbsp;(a) Any stairs, ramps, floors and balconies and any roof to which people have access, and<br>
+            &nbsp;&nbsp;&nbsp;(b) any light well, basement area or similar sunken area connected to a building,<br>
+            shall be provided with barriers where it is necessary to protect people in or about the building from falling.<br><br>
+            Requirement K2 (a) applies only to stairs and ramps which form part of the building.
     </p>
   </div>
 </div>
