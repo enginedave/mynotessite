@@ -1,6 +1,6 @@
 ---
 layout: reg
-title: regtitleN1
+title: Building Regulation N1
 section: Part N
 regulationno: N1
 ---
@@ -16,10 +16,10 @@ regulationno: N1
     <p>
         <strong>Protection against impact</strong><br>
         <strong>N1.</strong><br>
-            Glazing, with which people are likely to come into contact whilst moving in or about the building shall-<br>
-            (a) if broken on impact, break in a way which is unlikely to cause injury; or<br>
-            (b) resist impact without breaking; or<br>
-            (c) be shielded or protected from impact.
+            Glazing, with which people are likely to come into contact whilst moving in or about the building, shall:<br>
+            &nbsp;&nbsp;&nbsp;(a) if broken on impact, break in a way which is unlikely to cause injury; or<br>
+            &nbsp;&nbsp;&nbsp;(b) resist impact without breaking; or<br>
+            &nbsp;&nbsp;&nbsp;(c) be shielded or protected from impact.
     </p>
   </div>
 </div>

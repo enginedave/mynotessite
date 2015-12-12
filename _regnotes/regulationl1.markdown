@@ -1,6 +1,6 @@
 ---
 layout: reg
-title: regtitleL1
+title: Building Regulation L1
 section: Part L
 regulationno: L1
 ---
@@ -16,7 +16,7 @@ regulationno: L1
     <p>
         <strong>Conservation of fuel and power</strong><br>
         <strong>L1.</strong><br>
-            Reasonable provision shall be made for the conservation of fuel and power in buildings by-<br>
+            Reasonable provision shall be made for the conservation of fuel and power in buildings by:<br>
             (a) limiting heat gains and losses-<br>
             &nbsp;&nbsp;&nbsp;(i) through thermal elements and other parts of the building fabric; and<br>
             &nbsp;&nbsp;&nbsp;(ii) from pipes, ducts and vessels used for space heating, space cooling and hot water services;<br>

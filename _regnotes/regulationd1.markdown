@@ -1,6 +1,6 @@
 ---
 layout: reg
-title: regtitleD1
+title: Building Regulation D1
 section: Part D
 regulationno: D1
 ---

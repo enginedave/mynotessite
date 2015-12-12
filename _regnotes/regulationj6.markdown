@@ -1,6 +1,6 @@
 ---
 layout: reg
-title: regtitleJ6
+title: Building Regulation J6
 section: Part J
 regulationno: J6
 ---

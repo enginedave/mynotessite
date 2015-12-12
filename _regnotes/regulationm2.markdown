@@ -1,6 +1,6 @@
 ---
 layout: reg
-title: regtitleM2
+title: Building Regulation M2
 section: Part M
 regulationno: M2
 ---
@@ -16,7 +16,8 @@ regulationno: M2
     <p>
         <strong>Access to extensions to buildings other than dwellings</strong><br>
         <strong>M2.</strong><br>
-            Suitable independent access shall be provided to the extension where reasonably practicable.
+            Suitable independent access must be provided to the extension where reasonably practicable.<br><br>
+            Requirement M2 does not apply where suitable access to the extension is provided through the building that is extended.
     </p>
   </div>
 </div>

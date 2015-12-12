@@ -1,6 +1,6 @@
 ---
 layout: reg
-title: regtitleH4
+title: Building Regulation H4
 section: Part H
 regulationno: H4
 ---

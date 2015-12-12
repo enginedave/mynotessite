@@ -1,6 +1,6 @@
 ---
 layout: reg
-title: regtitleE1
+title: Building Regulation E1
 section: Part E
 regulationno: E1
 ---

@@ -1,6 +1,6 @@
 ---
 layout: reg
-title: regtitleM1
+title: Building Regulation M1
 section: Part M
 regulationno: M1
 ---
@@ -14,11 +14,12 @@ regulationno: M1
   </div>
   <div class="panel-body">
     <p>
-        <strong>Access and use</strong><br>
+        <strong>Access to and use of buildings other than dwellings</strong><br>
         <strong>M1.</strong><br>
-            Reasonable provision shall be made for people to-<br>
+            Reasonable provision must be made for people to-<br>
             (a) gain access to; and <br>
-            (b) use the building and its facilities.
+            (b) use, the building and its facilities.<br><br>
+            Requirement M1 does not apply to any part of a building that is used soley to enable the building or any service or fitting in the building to be inspected, repaired or maintained.
     </p>
   </div>
 </div>

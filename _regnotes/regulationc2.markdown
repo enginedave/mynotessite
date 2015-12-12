@@ -1,6 +1,6 @@
 ---
 layout: reg
-title: regtitleC2
+title: Building Regulation C2
 section: Part C
 regulationno: C2
 ---

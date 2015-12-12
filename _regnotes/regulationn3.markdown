@@ -1,6 +1,6 @@
 ---
 layout: reg
-title: regtitleN3
+title: Building Regulation N3
 section: Part N
 regulationno: N3
 ---
@@ -14,9 +14,10 @@ regulationno: N3
   </div>
   <div class="panel-body">
     <p>
-        <strong>Safe opening and closing or windows etc.</strong><br>
+        <strong>Safe opening and closing of windows etc.</strong><br>
         <strong>N3.</strong><br>
-            Windows, skylights and ventilators which can be opened by people in or about the building shall be so constructed or equipped that they may be opened, closed or adjusted safely.
+            Windows, skylights and ventilators which can be opened by people in or about the building shall be so constructed or equipped that they may be opened, closed or adjusted safely.<br><br>
+            Requirement N3 does not apply to dwellings.
     </p>
   </div>
 </div>

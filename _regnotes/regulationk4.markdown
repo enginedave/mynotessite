@@ -1,6 +1,6 @@
 ---
 layout: reg
-title: regtitleK4
+title: Building Regulation K4
 section: Part K
 regulationno: K4
 ---

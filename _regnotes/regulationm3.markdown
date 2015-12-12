@@ -1,6 +1,6 @@
 ---
 layout: reg
-title: regtitleM3
+title: Building Regulation M3
 section: Part M
 regulationno: M3
 ---
@@ -16,7 +16,8 @@ regulationno: M3
     <p>
         <strong>Sanitary conveniences in extensions to buildings other than dwellings</strong><br>
         <strong>M3.</strong><br>
-            If sanitary conveniences are provided in any building that is to be extended, reasonable provision shall be made within the extension for sanitary conveniences.
+            If sanitary conveniences are provided in any building that is to be extended, reasonable provision shall be made within the extension for sanitary conveniences.<br><br>
+            Requirement M3 does not apply where there is reasonable provision for sanitary conveniences elsewhere in the building, such that people occupied in, or otherwise having occasion to enter the extension, can gain access to and use those sanitary conveniences.
     </p>
   </div>
 </div>

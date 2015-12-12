@@ -1,6 +1,6 @@
 ---
 layout: reg
-title: regtitleN4
+title: Building Regulation N4
 section: Part N
 regulationno: N4
 ---
@@ -16,7 +16,10 @@ regulationno: N4
     <p>
         <strong>Safe access for cleaning windows etc.</strong><br>
         <strong>N4.</strong><br>
-            Provision shall be made for any windows, skylights, or any transparent or translucent walls, ceilings or roof to be safely accessible for cleaning.
+            Provision shall be made for any windows, skylights, or any transparent or translucent walls, ceilings or roofs to be safely accessible for cleaning.<br><br>
+            Requirement N4 does not apply to:<br>
+            &nbsp;&nbsp;&nbsp;(a) dwellings, or<br>
+            &nbsp;&nbsp;&nbsp;(b) any transparent or translucent elements whose surfaces are not intended to be cleaned.
     </p>
   </div>
 </div>

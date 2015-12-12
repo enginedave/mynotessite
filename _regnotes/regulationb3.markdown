@@ -1,6 +1,6 @@
 ---
 layout: reg
-title: regtitleB3
+title: Building Regulation B3
 section: Part B
 regulationno: B3
 ---

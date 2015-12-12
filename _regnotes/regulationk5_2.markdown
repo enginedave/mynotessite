@@ -1,6 +1,6 @@
 ---
 layout: reg
-title: regtitleK5.2
+title: Building Regulation K5.2
 section: Part K
 regulationno: K5.2
 ---
