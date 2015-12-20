@@ -28,7 +28,7 @@ regulationno: A1
 
 ### Suggested drawing notes
 
-Disclaimer: The drawing notes offered below are given as suggestions for your use.
+Please note: The drawing notes offered below are given as a starting point. Each note should be tailored to the specifics of the individual project by the designer.
 
 1. [Foundations](#foundations)
 2. [Ground Supported Floor Slabs](#groundsupp)
