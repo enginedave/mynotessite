@@ -1,5 +1,5 @@
 ---
-layout: reg
+layout: rega
 title: title to Part G of building regs
 section: Part G
 ---

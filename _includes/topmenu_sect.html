@@ -1,0 +1,13 @@
+<h3>Regulation(s)
+  <div class="btn-group" role="group" aria-label="...">
+    
+      {% for note in site.regnotes %}
+        {% if note.section == page.section %}
+          <button type="button" class="btn btn-default">
+            <a href="{{ note.url | prepend: site.baseurl }}">{{ note.regulationno }}</a>
+          </button>
+        {% endif %}
+      {% endfor %}
+      
+  </div>
+</h3>

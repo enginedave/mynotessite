@@ -1,5 +1,5 @@
 ---
-layout: reg
+layout: rega
 title: Part A Structure
 section: Part A
 ---

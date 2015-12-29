@@ -1,5 +1,5 @@
 ---
-layout: reg
+layout: rega
 title: Building Regulations Part N
 section: Part N
 ---

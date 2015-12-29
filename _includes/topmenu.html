@@ -1,13 +1,56 @@
 <h3>Regulation(s)
   <div class="btn-group" role="group" aria-label="...">
     
-      {% for note in site.regnotes %}
-        {% if note.section == page.section %}
+    {% for note in site.regnotes %}
+      {% assign current_index = forloop.index0 %}
+      {% assign next_index = current_index | plus: 1 %}
+      {% assign prev_index = current_index | minus: 1 %}
+      {% if note.regulationno == page.regulationno %}
+        <!--<p>-->
+        <!--  {{ note.regulationno }} - {{ note.url }}-->
+        <!--</p>-->
+        
+        {% if site.regnotes[prev_index] %}
           <button type="button" class="btn btn-default">
-            <a href="{{ note.url | prepend: site.baseurl }}">{{ note.regulationno }}</a>
+            <a href="{{ site.regnotes[prev_index].url }}">previous</a>
           </button>
         {% endif %}
-      {% endfor %}
+        
+        {% for note in site.regnotes %}
+          {% if note.section == page.section %}
+            <button type="button" class="btn btn-default">
+              <a href="{{ note.url | prepend: site.baseurl }}">{{ note.regulationno }}</a>
+            </button>
+          {% endif %}
+        {% endfor %}
+        
+        {% if site.regnotes[next_index] %}
+          <button type="button" class="btn btn-default">
+            <a href="{{ site.regnotes[next_index].url }}">next</a>
+          </button>
+        {% endif %}
+        
+      {% endif %}
+    {% endfor %}
+        
+    
+    
+    
+    
+    
+    <!--<div>-->
+    
+    <!--  {% for note in site.regnotes %}-->
+    <!--    {% if note.section == page.section %}-->
+    <!--      <button type="button" class="btn btn-default">-->
+    <!--        <a href="{{ note.url | prepend: site.baseurl }}">{{ note.regulationno }}</a>-->
+    <!--      </button>-->
+    <!--    {% endif %}-->
+    <!--  {% endfor %}-->
+      
+    <!--</div>-->
+    
+    <!--<button type="button" class="btn btn-default">next</button>-->
   
   </div>
 </h3>
