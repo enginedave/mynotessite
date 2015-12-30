@@ -29,3 +29,45 @@ regulationno: B3
 
 
 ### Suggested drawing notes
+
+Please note: The drawing notes offered below are given as a starting point. Each note should be tailored to the specifics of the individual project by the designer.
+
+1. [Part Wall Construction](#partywall)
+2. [First Floor Construction](#firstfloor)
+3. [Roof Conversions](#roofconv)
+
+
+## <a name="partywall"></a>Part Wall Construction
+
+<div class="row">
+  <div class="col-md-6">
+    <div class="bnotebox">
+      <h4>Solid Party Wall</h4>
+      <p><em>
+      Party wall between the two properties to be constructed using 215mm solid blockwork construction to achieve minimum 1hr fire resistance. Wall to be continued up to the underside of the roof covering and fire stopped. Space between the roof battens to be fire stopped along the line of the party wall.
+      </em></p>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <div class="bnotebox">
+      <h4>Cavity Party Wall</h4>
+      <p><em>
+      Party wall between the two properties to be constructed using 2no. 100mm skins constructed in blockwork to achieve 1hr fire resistance. Wall to be continued up to the underside of the roof covering and fire stopped. Space between the roof battens to be fire stopped along the line of the party wall.
+      </em></p>
+    </div>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-md-6">
+    <div class="bnotebox">
+      <h4>Timber Framed Party Wall</h4>
+      <p><em>
+        Party wall between the two properties to be constructed using timber stud construction as per the timber frame manufacturers timber sizes. Internally the timber studs should be finished (both sides) using an inner layer of 19mm Gyproc plank and an outer layer of 12.5mm Gyproc WallBoard to provide 1hr fire resistance. There should be no service penetrations through either of these layers to maintain the integrity of the fire resisting wall.<br><br>
+        If services are required on the party wall then a suitable depth timber batten should be used to provide the services zone and the wall finished with a further 12.5mm layer of Gyproc WallBoard.<br><br>
+        See also: <a href="http://www.british-gypsum.com/~/media/Files/British-Gypsum/WHITE-BOOK-Sector-Guides/HomeSpec/WB_HomeSpec_Separating_walls.pdf" target="_blank">The White Book - HomeSpec Residential Specification Guide - Separating walls</a>
+      </em></p>
+    </div>
+  </div>
+</div>
